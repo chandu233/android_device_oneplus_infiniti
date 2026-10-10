@@ -221,9 +221,6 @@ odm/etc/camera/cfr_bin/CFR_OPlus_EF017_UW_snapshot.bin
 odm/etc/camera/cfr_bin/CFR_infinitimain.bin
 odm/etc/camera/cfr_bin/CFR_infinititele.bin
 odm/etc/camera/cfr_bin/CFR_infinitiultrawide.bin
-odm/etc/camera/config/camera_third_party_feature_config.protobuf
-odm/etc/camera/config/camera_unit_config
-odm/etc/camera/config/camera_unit_feature_config.protobuf
 odm/etc/camera/config/infinitifront
 odm/etc/camera/config/infinitimain
 odm/etc/camera/config/infinititele
@@ -231,12 +228,9 @@ odm/etc/camera/config/infinitiultrawide
 odm/etc/camera/config/oplus_camera_algo_switch_config
 odm/etc/camera/config/oplus_camera_algo_traversal_config.json
 odm/etc/camera/config/oplus_camera_aps_config
-odm/etc/camera/config/oplus_camera_config
 odm/etc/camera/config/oplus_camera_preview_decision_config.json
 odm/etc/camera/config/oplus_preview_decision_params.json
-odm/etc/camera/config/quick_visibility_white_list
 odm/etc/camera/config/video_ai_proc_cfg.json
-odm/etc/camera/config/video_beauty_default_config
 odm/etc/camera/dng/ColorMatrix1_infinitimain.txt
 odm/etc/camera/dng/ColorMatrix1_infinititele.txt
 odm/etc/camera/dng/ColorMatrix1_infinitiultrawide.txt
@@ -990,7 +984,6 @@ odm/lib64/libCaptureBokeh.so
 odm/lib64/libDarkColor.so
 odm/lib64/libDocRectification.so
 odm/lib64/libEIS.so
-odm/lib64/libEISLive.so
 odm/lib64/libFDClite.so
 odm/lib64/libFaceBeautyJni.so
 odm/lib64/libFaceBeautyPre.so
@@ -1015,6 +1008,7 @@ odm/lib64/libOPAlgoCamSinglePortrait.so
 odm/lib64/libOPLUSMotionDetection.so
 odm/lib64/libOplusPDCore.so
 odm/lib64/libOpo_awb.so
+odm/lib64/libPDParamParser.so
 odm/lib64/libRedeyeReduce.so
 odm/lib64/libSchedAssistExtImpl_vendor.so
 odm/lib64/libSpecRecon.so
@@ -1078,7 +1072,6 @@ odm/lib64/libexif-jpeg-aps.so
 odm/lib64/libextendfile.so
 odm/lib64/libextensionlayer.so
 odm/lib64/libfovctrl.so
-odm/lib64/libfusioninterpolation.arcsoft.so
 odm/lib64/libhcsfwk.so
 odm/lib64/libhcsutils.so
 odm/lib64/libhwconfigurationutil.so
@@ -1406,6 +1399,7 @@ vendor/lib64/libhme.so
 vendor/lib64/libhwfenceclient.so
 vendor/lib64/libhwliqinterface2.so
 vendor/lib64/libhwlispcffdump.so
+vendor/lib64/libiccprofile.so
 vendor/lib64/libipebpsstriping.so
 vendor/lib64/libipebpsstriping170.so
 vendor/lib64/libipebpsstriping480.so

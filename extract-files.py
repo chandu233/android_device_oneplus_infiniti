@@ -55,7 +55,6 @@ blob_fixups: blob_fixups_user_type = {
     (
         'odm/lib64/libAlgoProcess.so',
         'odm/lib64/libEIS.so',
-        'odm/lib64/libEISLive.so',
         'odm/lib64/libFaceBeautyJni.so',
         'odm/lib64/libFaceDistortionCorrection.so',
         'odm/lib64/libOPAlgoCamAiBeautyFaceRetouchCn.so',
