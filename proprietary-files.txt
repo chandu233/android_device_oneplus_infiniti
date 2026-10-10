@@ -1023,7 +1023,6 @@ odm/lib64/libUpScale.so
 odm/lib64/libVideoAIProc.so
 odm/lib64/libVideoMLFT.so
 odm/lib64/libWaterMark.so
-odm/lib64/lib_geofencing.so
 odm/lib64/lib_rectify.so
 odm/lib64/libaecCustom.so
 odm/lib64/libai_perception_scene_detect.so
@@ -1100,7 +1099,6 @@ odm/lib64/libosie.so
 odm/lib64/libosie_process.so
 odm/lib64/liboutils.so
 odm/lib64/libpngwrapper.so
-odm/lib64/libqsh.utils.so
 odm/lib64/libremosaic_wrapper.so
 odm/lib64/libremosaiclib.so
 odm/lib64/libsat.so
@@ -1443,7 +1441,6 @@ vendor/lib64/libqshcamera.so
 vendor/lib64/libqshcamera_sensinghubapi.so
 vendor/lib64/libqshutils.so
 vendor/lib64/libsfeShiftExtrapolation.so
-vendor/lib64/libsgutils2.so
 vendor/lib64/libsiminputgenutil.so
 vendor/lib64/libspectre.so
 vendor/lib64/libswregistrationalgo.so
