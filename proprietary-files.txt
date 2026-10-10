@@ -999,7 +999,6 @@ odm/lib64/libHDRDetection.so
 odm/lib64/libHIS.so
 odm/lib64/libImageWarpMask.so;FIX_SONAME
 odm/lib64/libImplicitWatermark.so
-odm/lib64/libMNN.so
 odm/lib64/libODNN.so
 odm/lib64/libOPAlgoCamAIBeautyBodyDetection.so
 odm/lib64/libOPAlgoCamAiBeautyFaceRetouchCn.so
@@ -1109,7 +1108,6 @@ odm/lib64/libsaveshaderbin.so
 odm/lib64/libsharebuffer.so
 odm/lib64/libsharebuffer_impl.so
 odm/lib64/libssd_det.so
-odm/lib64/libtensorflowlite_oplus.so
 odm/lib64/libtrace.so
 odm/lib64/libvega_common.so
 odm/lib64/libwatermark_photo.so
@@ -1804,6 +1802,7 @@ odm/lib64/aiframe/libQnnSystem.so;MODULE_SUFFIX=.aiframe
 odm/lib64/aiframe/libaiboost_qnn_external_delegate.so;MODULE_SUFFIX=.aiframe;FIX_SONAME
 odm/lib64/aiframe/libqcom_llm.so
 odm/lib64/aiframe/libtransformer_lite.so
+odm/lib64/libMNN.so
 odm/lib64/libQnnCpu.so
 odm/lib64/libQnnGpu.so
 odm/lib64/libQnnHtp.so
@@ -1819,6 +1818,7 @@ odm/lib64/libaiboost_qnn_sr.so
 odm/lib64/libaiboost_sr.so
 odm/lib64/libaiboost_te.so;FIX_SONAME
 odm/lib64/libaiboost_ubwc.so
+odm/lib64/libtensorflowlite_oplus.so
 
 # NFC
 odm/etc/nfc/libnfc-mtp-SN220.conf_24831:odm/etc/libnfc-mtp-SN220.conf_24831
