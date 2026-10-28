@@ -263,7 +263,6 @@ odm/etc/camera/config/oplus_camera_aps_config
 odm/etc/camera/config/oplus_camera_config
 odm/etc/camera/config/oplus_camera_preview_decision_config.json
 odm/etc/camera/config/oplus_preview_decision_params.json
-odm/etc/camera/config/quick_visibility_white_list
 odm/etc/camera/config/video_ai_proc_cfg.json
 odm/etc/camera/config/video_beauty_default_config
 odm/etc/camera/dng/ColorMatrix1_infinitimain.txt
@@ -336,7 +335,6 @@ odm/etc/camera/video_facelut_ultra_tele.json
 odm/etc/camera/video_facelut_wide.json
 odm/lib64/camera/revision.txt
 vendor/lib64/camera/infinitifront_4.pb
-vendor/lib64/camera/lafafront_4.pb
 
 # Camera (Data)
 odm/etc/camera/AIAE_Models/AIAEVideoModelMain.bin
@@ -1511,7 +1509,6 @@ vendor/lib64/vendor.qti.hardware.camera.offlinecamera-service-impl.so
 
 # Camera (Services)
 odm/bin/hw/vendor.oplus.hardware.cammidasservice-V1-service
-odm/etc/init/init.camera_debug_ui.rc
 odm/etc/init/init.camera_process.rc
 odm/etc/init/init.camera_upate.rc
 odm/etc/init/vendor.oplus.hardware.cammidasservice-V1-service.rc
