@@ -873,7 +873,6 @@ odm/etc/camera/hybridraw_models/vae_decoder.bix
 odm/etc/camera/hybridraw_models/vae_decoder_vertical.bix
 odm/etc/camera/hybridraw_models/vae_encoder.bix
 odm/etc/camera/hybridraw_models/vae_encoder_vertical.bix
-odm/etc/camera/livephoto_coverenhancer/models/RRDBNet_sm8850.bin
 odm/etc/camera/meishe_lut/800t_blues.bin
 odm/etc/camera/meishe_lut/800t_hdr.bin
 odm/etc/camera/meishe_lut/800t_master.bin
@@ -1018,9 +1017,6 @@ odm/etc/camera/pfb_bin/ThirdPartyPreSkintuneMRTBinary.bin
 odm/etc/camera/pfb_bin/ThirdPartyPreVertFilterBinary.bin
 odm/etc/camera/pfb_bin/ThirdPartyPreVertSurBinary.bin
 odm/etc/camera/singleblur/personseg.bin
-odm/etc/camera/sticker/material/animoji/data.zip
-odm/etc/camera/sticker/material/animoji/snowleopard_v_0_0_0_9.zip
-odm/etc/camera/sticker/M_SenseME_Action_5.2.12.model
 odm/etc/camera/DitherTabU8
 odm/etc/camera/Vega_Align_occlusion.model
 odm/etc/camera/Vega_Align_occlusion_snap.model
@@ -1269,15 +1265,6 @@ vendor/firmware/CAMERA_ICP_170.elf
 odm/etc/camera/aigc/libs/libODNN.so;MODULE_SUFFIX=.aigc
 odm/etc/camera/aigc/libs/libOPAlgoCamAIGCFace.so
 odm/etc/camera/aigc/libs/libzlib.so;MODULE_SUFFIX=.aigc
-odm/etc/camera/livephoto_coverenhancer/libs/libODNN.so;MODULE_SUFFIX=.livephoto
-odm/etc/camera/livephoto_coverenhancer/libs/libOPAlgoCamCoverEnhancer.so
-odm/etc/camera/livephoto_coverenhancer/libs/libQnnHtp.so;MODULE_SUFFIX=.livephoto
-odm/etc/camera/livephoto_coverenhancer/libs/libQnnHtpV81Skel.so;MODULE_SUFFIX=.livephoto
-odm/etc/camera/livephoto_coverenhancer/libs/libQnnHtpV81Stub.so;MODULE_SUFFIX=.livephoto
-odm/etc/camera/livephoto_coverenhancer/libs/libQnnSystem.so;MODULE_SUFFIX=.livephoto
-odm/etc/camera/livephoto_coverenhancer/libs/libsharebuffer.so;MODULE_SUFFIX=.livephoto
-odm/etc/camera/livephoto_coverenhancer/libs/libtrace.so;MODULE_SUFFIX=.livephoto
-odm/etc/camera/livephoto_coverenhancer/libs/libzlib.so;MODULE_SUFFIX=.livephoto
 odm/lib64/hw/camera.oemlayer.v2.so
 odm/lib64/camera.oemlayer.adapter.so
 odm/lib64/camera.oemlayer.healthmonitor.so
