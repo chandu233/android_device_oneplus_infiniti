@@ -72,6 +72,8 @@ blob_fixups: blob_fixups_user_type = {
         .clear_symbol_version('AHardwareBuffer_unlock'),
     'odm/lib64/libAlgoProcess.so': blob_fixup()
         .replace_needed('android.hardware.graphics.common-V5-ndk.so', 'android.hardware.graphics.common-V7-ndk.so'),
+    'odm/lib64/libocam_hmbird.so': blob_fixup()
+        .remove_needed('liboplus-uah-client.so'),
     'odm/lib64/liboprec_audrec.so': blob_fixup()
         .replace_needed('libstdc++.so', 'libstdc++_vendor.so'),
     'odm/lib64/soundfx/libOplusSpatializerAidl.so': blob_fixup()
