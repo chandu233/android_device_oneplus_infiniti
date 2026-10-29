@@ -574,12 +574,6 @@ odm/lib64/libarcsoft_videoautozoom.so;FIX_SONAME
 odm/lib64/libc++_shared.so
 odm/lib64/libcam.odnn.interface.so
 odm/lib64/libcam.oplus.3a.v4.so
-odm/lib64/libcreateFDCLitecachebin.so
-odm/lib64/libcreateFDCcachebin.so
-odm/lib64/libcreateRSPcachebin.so
-odm/lib64/libcreatebin.so
-odm/lib64/libcreatebinForBaseretouch.so
-odm/lib64/libcreatebinForFaceretouch.so
 odm/lib64/libdlrmsc.so
 odm/lib64/libextensionlayer.so
 odm/lib64/libfovctrl.so
@@ -605,7 +599,6 @@ odm/lib64/libqsh.utils.so
 odm/lib64/libremosaic_wrapper.so
 odm/lib64/libremosaiclib.so
 odm/lib64/libsat.so
-odm/lib64/libsaveshaderbin.so
 odm/lib64/libsharebuffer.so
 odm/lib64/libsharebuffer_impl.so
 odm/lib64/libssd_det.so
