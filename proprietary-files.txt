@@ -315,9 +315,6 @@ odm/etc/camera/Owl_Algo_model/Owl_Algo_T_FHD.bin
 odm/etc/camera/Owl_Algo_model/Owl_Algo_T_UHD.bin
 odm/etc/camera/Owl_Algo_model/Owl_Algo_W_FHD.bin
 odm/etc/camera/Owl_Algo_model/Owl_Algo_W_UHD.bin
-odm/etc/camera/aigc/aigc_models/blurDet_sm8850.bin
-odm/etc/camera/aigc/aigc_models/faceSeg_sm8850.bin
-odm/etc/camera/aigc/aigc_models/gfpgan1024_sm8850.bin
 odm/etc/camera/anc/fusion_model
 odm/etc/camera/anc/fusion_model_post
 odm/etc/camera/asd/ai_perception_scene_detect.bin
@@ -516,9 +513,6 @@ vendor/firmware/CAMERA_ICP.mbn
 vendor/firmware/CAMERA_ICP_1.mbn
 
 # Camera (Libraries)
-odm/etc/camera/aigc/libs/libODNN.so;MODULE_SUFFIX=.aigc
-odm/etc/camera/aigc/libs/libOPAlgoCamAIGCFace.so
-odm/etc/camera/aigc/libs/libzlib.so;MODULE_SUFFIX=.aigc
 odm/lib64/hw/camera.oemlayer.v2.so
 odm/lib64/camera.oemlayer.adapter.so
 odm/lib64/camera.oemlayer.healthmonitor.so
