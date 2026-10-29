@@ -267,13 +267,8 @@ odm/etc/camera/dng/ToneCurve_infinititele.txt
 odm/etc/camera/dng/ToneCurve_infinitiultrawide.txt
 odm/etc/camera/CameraHWConfiguration.config
 odm/etc/camera/OplusMultiDefault.xml
-odm/etc/camera/OplusSATPhoto.xml
 odm/etc/camera/OplusSATPortrait.xml
-odm/etc/camera/OplusSATVideo.xml
-odm/etc/camera/OplusSATVideoNonIPE.xml
 odm/etc/camera/OplusSingleDefault.xml
-odm/etc/camera/OplusSingleVideo.xml
-odm/etc/camera/OplusSingleVideoNonIPE.xml
 odm/etc/camera/camera_engmode.xml
 odm/etc/camera/dolby_vainr_cfg.json
 odm/etc/camera/mvg_sat_config.json
@@ -465,7 +460,6 @@ vendor/lib64/camera/com.qti.chi.featurecompatibilityspecification.sm8850.bin
 vendor/lib64/camera/com.qti.ofe.profiledb.default.bin
 vendor/lib64/camera/com.qti.ofe.profiledb.sm8850.bin
 vendor/lib64/camera/com.qti.tuned.default.canoe.bin
-vendor/lib64/camera/com.qti.tuned.molokai_default.bin
 vendor/lib64/camera/fdconfigoffline.bin
 vendor/lib64/camera/fdconfigpreview.bin
 vendor/lib64/camera/fdconfigpreviewlite.bin
