@@ -275,10 +275,7 @@ odm/etc/camera/OplusSingleDefault.xml
 odm/etc/camera/OplusSingleVideo.xml
 odm/etc/camera/OplusSingleVideoNonIPE.xml
 odm/etc/camera/camera_engmode.xml
-odm/etc/camera/conf_tuning_params.json
 odm/etc/camera/dolby_vainr_cfg.json
-odm/etc/camera/fwk_config.json
-odm/etc/camera/media_profiles.xml
 odm/etc/camera/mvg_sat_config.json
 odm/etc/camera/self_ois.ocfg
 odm/etc/camera/vainr_cfg.json
@@ -309,7 +306,6 @@ odm/etc/camera/Owl_Algo_model/Owl_Algo_T_FHD.bin
 odm/etc/camera/Owl_Algo_model/Owl_Algo_T_UHD.bin
 odm/etc/camera/Owl_Algo_model/Owl_Algo_W_FHD.bin
 odm/etc/camera/Owl_Algo_model/Owl_Algo_W_UHD.bin
-odm/etc/camera/asd/ai_perception_scene_detect.bin
 odm/etc/camera/asd/class.dlc
 odm/etc/camera/asd/class_fullfov.dlc
 odm/etc/camera/asd/detect.dlc
@@ -354,7 +350,6 @@ odm/etc/camera/neon_yuv_LUT_64.bin
 odm/etc/camera/oplus_eis_camera.vcfg
 odm/etc/camera/qnn_binary_9052758122668408981.bin
 odm/etc/camera/salient2_seg.bin
-odm/etc/camera/selfbokehmodel.bin
 odm/etc/camera/tele_inv_mapxy_33x25.bin
 odm/etc/camera/tele_mapxy_33x25.bin
 odm/etc/camera/text_enhance_yuv_v1.tflite
