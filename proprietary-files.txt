@@ -1139,55 +1139,8 @@ vendor/lib64/camera/fdconfigvideolite.bin
 vendor/lib64/camera/qfdserviceconfig.bin
 
 # Camera (Firmware)
-vendor/firmware/CAMERA_ICP.b00
-vendor/firmware/CAMERA_ICP.b01
-vendor/firmware/CAMERA_ICP.b02
-vendor/firmware/CAMERA_ICP.b03
-vendor/firmware/CAMERA_ICP.b04
-vendor/firmware/CAMERA_ICP.b05
-vendor/firmware/CAMERA_ICP.b06
-vendor/firmware/CAMERA_ICP.b07
-vendor/firmware/CAMERA_ICP.b08
-vendor/firmware/CAMERA_ICP.b09
-vendor/firmware/CAMERA_ICP.b10
-vendor/firmware/CAMERA_ICP.b11
-vendor/firmware/CAMERA_ICP.b12
-vendor/firmware/CAMERA_ICP.b13
-vendor/firmware/CAMERA_ICP.b14
-vendor/firmware/CAMERA_ICP.b15
-vendor/firmware/CAMERA_ICP.b16
-vendor/firmware/CAMERA_ICP.b17
-vendor/firmware/CAMERA_ICP.b18
-vendor/firmware/CAMERA_ICP.b19
-vendor/firmware/CAMERA_ICP.b20
-vendor/firmware/CAMERA_ICP.elf
 vendor/firmware/CAMERA_ICP.mbn
-vendor/firmware/CAMERA_ICP.mdt
-vendor/firmware/CAMERA_ICP_1.b00
-vendor/firmware/CAMERA_ICP_1.b01
-vendor/firmware/CAMERA_ICP_1.b02
-vendor/firmware/CAMERA_ICP_1.b03
-vendor/firmware/CAMERA_ICP_1.b04
-vendor/firmware/CAMERA_ICP_1.b05
-vendor/firmware/CAMERA_ICP_1.b06
-vendor/firmware/CAMERA_ICP_1.b07
-vendor/firmware/CAMERA_ICP_1.b08
-vendor/firmware/CAMERA_ICP_1.b09
-vendor/firmware/CAMERA_ICP_1.b10
-vendor/firmware/CAMERA_ICP_1.b11
-vendor/firmware/CAMERA_ICP_1.b12
-vendor/firmware/CAMERA_ICP_1.b13
-vendor/firmware/CAMERA_ICP_1.b14
-vendor/firmware/CAMERA_ICP_1.b15
-vendor/firmware/CAMERA_ICP_1.b16
-vendor/firmware/CAMERA_ICP_1.b17
-vendor/firmware/CAMERA_ICP_1.b18
-vendor/firmware/CAMERA_ICP_1.b19
-vendor/firmware/CAMERA_ICP_1.b20
-vendor/firmware/CAMERA_ICP_1.elf
 vendor/firmware/CAMERA_ICP_1.mbn
-vendor/firmware/CAMERA_ICP_1.mdt
-vendor/firmware/CAMERA_ICP_170.elf
 
 # Camera (Libraries)
 odm/etc/camera/aigc/libs/libODNN.so;MODULE_SUFFIX=.aigc
