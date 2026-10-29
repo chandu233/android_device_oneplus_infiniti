@@ -652,7 +652,6 @@ vendor/lib64/libcamxofeswl.so
 vendor/lib64/libcamxqsatalgo.so
 vendor/lib64/libcamxsettingsmanager.so
 vendor/lib64/libcamxsocketclientutil.so
-vendor/lib64/libcamxsocketserverutil.so
 vendor/lib64/libcamxswispiqmodule.so
 vendor/lib64/libcamxswlipedriver.so
 vendor/lib64/libcamxswprocessalgo.so
