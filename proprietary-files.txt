@@ -470,15 +470,8 @@ odm/lib64/camera.oemlayer.healthmonitor.so
 odm/lib64/camera.oemlayer.logger.so
 odm/lib64/camera.oemlayer.uilayer.so
 odm/lib64/com.oplus.mcx.linearmapper.so
-odm/lib64/com.oplus.node.defer.so
-odm/lib64/com.oplus.node.detect.v2.so
 odm/lib64/com.oplus.node.memcpy.so
-odm/lib64/com.oplus.node.mlft.so
-odm/lib64/com.oplus.node.photoeis.so
-odm/lib64/com.oplus.node.postproc.v2.so
-odm/lib64/com.oplus.node.preview.v3.so
 odm/lib64/com.oplus.node.previewdefognode.so
-odm/lib64/com.oplus.node.realt.so
 odm/lib64/com.oplus.node.satfusion.so
 odm/lib64/libAECParamParser.so
 odm/lib64/libAF.so
@@ -487,10 +480,8 @@ odm/lib64/libAncFilter.so
 odm/lib64/libCS.so
 odm/lib64/libDarkColor.so
 odm/lib64/libEIS.so
-odm/lib64/libEISLive.so
 odm/lib64/libHIS.so
 odm/lib64/libMNN.so
-odm/lib64/libMetaSDK.so
 odm/lib64/libODNN.so
 odm/lib64/libOplusPDCore.so
 odm/lib64/libOpo_awb.so
@@ -508,7 +499,6 @@ odm/lib64/libaecCustom.so
 odm/lib64/libaisal.so
 odm/lib64/libaisd.so
 odm/lib64/libaisd_fullfov.so
-odm/lib64/libancbase_rt_fusion.so;FIX_SONAME
 odm/lib64/libarc.ion.so
 odm/lib64/libarcsoft_dualcam_bokeh_api.so
 odm/lib64/libarcsoft_dualcam_bokeh_image.so
@@ -522,11 +512,9 @@ odm/lib64/libcam.oplus.3a.v4.so
 odm/lib64/libdlrmsc.so
 odm/lib64/libextensionlayer.so
 odm/lib64/libfovctrl.so
-odm/lib64/libfusioninterpolation.arcsoft.so
 odm/lib64/libhcsfwk.so
 odm/lib64/libhcsutils.so
 odm/lib64/libhwconfigurationutil.so
-odm/lib64/libhybridraw_datas.so
 odm/lib64/libmpbase.so
 odm/lib64/libmvgcommon.so
 odm/lib64/libmvgfusion.so
@@ -636,7 +624,6 @@ vendor/lib64/libcamxofehwl.so
 vendor/lib64/libcamxofeswl.so
 vendor/lib64/libcamxqsatalgo.so
 vendor/lib64/libcamxsettingsmanager.so
-vendor/lib64/libcamxsocketclientutil.so
 vendor/lib64/libcamxswispiqmodule.so
 vendor/lib64/libcamxswlipedriver.so
 vendor/lib64/libcamxswprocessalgo.so
@@ -651,7 +638,6 @@ vendor/lib64/libcolor-default.so
 vendor/lib64/libcom.qti.chinodeutils.so
 vendor/lib64/libdepthcomputation.so
 vendor/lib64/libdscaalgo.so
-vendor/lib64/libeepromcutter.so
 vendor/lib64/libhcsutils.so;MODULE_SUFFIX=_vendor
 vendor/lib64/libhdr10plus.so
 vendor/lib64/libhdr_stub.so
@@ -1019,10 +1005,8 @@ odm/lib64/libQnnSaver.so
 odm/lib64/libQnnSystem.so
 odm/lib64/libaiboost.so
 odm/lib64/libaiboost_llm.so
-odm/lib64/libaiboost_qnn_external_delegate_te.so;FIX_SONAME
 odm/lib64/libaiboost_qnn_sr.so
 odm/lib64/libaiboost_sr.so
-odm/lib64/libaiboost_te.so;FIX_SONAME
 odm/lib64/libaiboost_ubwc.so
 odm/lib64/libaiboost_vilte_qnn_sr.so
 odm/lib64/libaiboost_vilte_sr.so
@@ -1030,7 +1014,6 @@ odm/lib64/libaiboost_wechat_qnn_sr.so
 odm/lib64/libaiboost_wechat_sr.so
 odm/lib64/libviltesr_ubwc.so
 odm/lib64/libwechatsr_ubwc.so
-odm/lib64/libwrapper_te.so
 
 # NFC
 odm/etc/nfc/libnfc-mtp-SN220.conf_24831:odm/etc/libnfc-mtp-SN220.conf_24831

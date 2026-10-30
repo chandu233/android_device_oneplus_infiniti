@@ -213,11 +213,7 @@ blob_fixups: blob_fixups_user_type = {
         'vendor/lib64/vendor.qti.hardware.camera.aon-service-impl.so',
     ): blob_fixup()
         .remove_needed('libcamxsocketserverutil.so'),
-    (
-        'odm/lib64/libEIS.so',
-        'odm/lib64/libEISLive.so',
-        'odm/lib64/libaiboost_te.so',
-    ): blob_fixup()
+    'odm/lib64/libEIS.so': blob_fixup()
         .clear_symbol_version('AHardwareBuffer_acquire')
         .clear_symbol_version('AHardwareBuffer_allocate')
         .clear_symbol_version('AHardwareBuffer_describe')
