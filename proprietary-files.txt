@@ -17,15 +17,6 @@ odm/lib/rfsa/adsp/libtfadsp_sb5_5_rx.so
 odm/lib/rfsa/adsp/libtfadsp_sb5_5_tx.so
 odm/lib/rfsa/adsp/nlc_bgth_v1_5.so
 
-# AIMotion
-odm/etc/AIMotion/q_384_192_l1_p0_t0_genshin.bin
-odm/etc/AIMotion/q_384_192_l2_p0_t0_genshin.bin
-odm/lib64/AIMotion/cdsp/libQnnHtpV81Skel.so;MODULE_SUFFIX=.AIMotion
-odm/lib64/AIMotion/libQnnHtp.so;MODULE_SUFFIX=.AIMotion
-odm/lib64/AIMotion/libQnnHtpV81Stub.so;MODULE_SUFFIX=.AIMotion
-odm/lib64/AIMotion/libQnnSystem.so;MODULE_SUFFIX=.AIMotion
-odm/lib64/libAIMotion.so
-
 # ANT+ (Firmware)
 odm/firmware/secure_ta/antdtx.b00
 odm/firmware/secure_ta/antdtx.b01
