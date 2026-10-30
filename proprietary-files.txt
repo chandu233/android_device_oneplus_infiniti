@@ -861,16 +861,8 @@ odm/etc/PanelChaplin/Game_OTOME_Fliter.txt
 odm/etc/PanelChaplin/Game_OldMovie_Fliter.txt
 odm/etc/PanelChaplin/Game_RPG.txt
 odm/etc/PanelChaplin/Game_Vivid_Fliter.txt
-odm/etc/PanelChaplin/LUTPublic_colorful_P3_E29.txt
-odm/etc/PanelChaplin/LUTPublic_colorful_sRGB_E29.txt
-odm/etc/PanelChaplin/LUTPublic_natural_P3_E29.txt
-odm/etc/PanelChaplin/LUTPublic_natural_sRGB_E29.txt
-odm/etc/PanelChaplin/LUTPublic_professional_P3_E29.txt
-odm/etc/PanelChaplin/LUTPublic_professional_sRGB_E29.txt
 odm/etc/PanelChaplin/Lut3D_311
 odm/etc/PanelChaplin/Lut3D_312
-odm/etc/PanelChaplin/RGBMatrix_public_P3.txt
-odm/etc/PanelChaplin/RGBMatrix_public_sRGB.txt
 odm/etc/PanelChaplin/panelchaplin
 
 # Dolby Vision
